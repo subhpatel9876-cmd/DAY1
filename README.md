@@ -22,6 +22,10 @@ Task 1:
 Task 2:
 
 HDD vs SSD Comparison Table
+
+<img width="990" height="581" alt="image" src="https://github.com/user-attachments/assets/f727831e-6816-4628-93e9-17da9c1903df" />
+
+
 FeatureHDDSSDSpeedSlow (100 MB/s)Fast (500–3500 MB/s)DurabilityLow (moving parts, can break on drop)High (no moving parts, shock resistant)PriceCheap (Rs. 3000 for 1TB)Expensive (Rs. 6000 for 1TB)NoiseMakes sound (spinning disk)SilentWeightHeavyLightTypical UseDesktop backup storageLaptop, gaming PC, OS driveLifespan3–5 years5–10 years
 
 Task 3:

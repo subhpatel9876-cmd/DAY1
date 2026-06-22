@@ -1,35 +1,46 @@
 # DAY1
+Task 1:
 
-1. Motherboard
-The motherboard is the main circuit board of a computer. It connects all other components together and allows them to communicate. Think of it as the "backbone" of the computer. Every other component — CPU, RAM, GPU, storage — plugs into the motherboard.
-
-2. CPU (Central Processing Unit)
-The CPU is the "brain" of the computer. It performs all calculations and runs programs. It processes instructions one by one, very fast (billions per second). Example: Intel Core i7, AMD Ryzen 5.
-
-3. RAM (Random Access Memory)
-RAM is temporary memory. When you open a program, it gets loaded into RAM so the CPU can access it quickly. When you shut down, RAM is cleared. More RAM = more programs can run at once. Example: 8GB, 16GB DDR4.
-
-4. GPU (Graphics Processing Unit)
-The GPU handles all visual output — images, videos, games. It has thousands of small cores to process many tasks simultaneously (parallel processing). Some CPUs have a built-in GPU (integrated graphics); a separate GPU is called a dedicated/discrete GPU. Example: NVIDIA RTX 4060, AMD RX 7600.
-
-5. Storage — HDD vs SSD
-Storage holds your data permanently (even when power is off).
-HDD (Hard Disk Drive) — uses spinning magnetic disks. Slower but cheaper and available in large sizes (1TB, 2TB).
-SSD (Solid State Drive) — uses flash memory chips. Much faster, silent, no moving parts, but more expensive. NVMe SSDs (in M.2 slot) are the fastest type.
-
-
-How they work together:
-
-The PSU (Power Supply Unit) gives electricity to all components. The CPU processes data, pulls programs from storage into RAM, and sends video output to the GPU, which displays it on the monitor.
+<img width="1161" height="590" alt="image" src="https://github.com/user-attachments/assets/ceed27c3-7363-4857-8c0a-6a381dfd512a" />
 
 
 
 
-<img width="1171" height="603" alt="image" src="https://github.com/user-attachments/assets/647b6f17-dbcc-45e9-87da-b6de559571f9" />
 
 
 
 
+
+
+
+
+
+
+
+
+Task 2:
+
+HDD vs SSD Comparison Table
+FeatureHDDSSDSpeedSlow (100 MB/s)Fast (500–3500 MB/s)DurabilityLow (moving parts, can break on drop)High (no moving parts, shock resistant)PriceCheap (Rs. 3000 for 1TB)Expensive (Rs. 6000 for 1TB)NoiseMakes sound (spinning disk)SilentWeightHeavyLightTypical UseDesktop backup storageLaptop, gaming PC, OS driveLifespan3–5 years5–10 years
+
+Task 3:
+
+CPU, RAM, GPU in PUBG / Free Fire
+CPU (Central Processing Unit):
+
+The CPU handles all the game logic in PUBG — like enemy AI movement, bullet calculations, map loading, and player actions. Without a fast CPU, the game lags and freezes even if graphics look fine. In Free Fire, CPU manages all the game events happening at the same time.
+RAM (Random Access Memory):
+
+RAM stores all the currently running game data temporarily so the CPU can access it instantly. PUBG needs at least 8GB RAM — if RAM is low, the game stutters because it keeps going back to slow storage. More RAM means smoother gameplay with no sudden freezes.
+GPU (Graphics Processing Unit):
+
+The GPU renders every frame you see on screen — trees, buildings, explosions, character models, shadows. In PUBG, a good GPU like NVIDIA GTX 1650 gives 60+ FPS smoothly. Without GPU, visuals would be blocky, slow, and unplayable.
+
+Task 4:
+
+PC Upgrade for FIFA (Latest Version) 
+
+ComponentUpgrade?WhyCPUYesFIFA needs fast CPU for physics, player AI, crowd simulation. Upgrade to Intel i5/i7 or AMD Ryzen 5.RAMYesLatest FIFA needs 16GB RAM minimum for smooth loading and no stutter during matches.GPUYesHigh graphics in FIFA (4K stadiums, realistic lighting) need a dedicated GPU like GTX 1660 or RTX 3060.SSDYesSSD makes FIFA load 3x faster than HDD. No long loading screens between matches.HDDNoHDD is too slow for gaming. Keep it only for backup storage.PSUMaybeIf adding a powerful GPU, PSU should be upgraded to 550W–650W to handle extra power.
 
 
 

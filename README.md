@@ -1,7 +1,8 @@
 # DAY1
 Task 1:
 
-<img width="1161" height="590" alt="image" src="https://github.com/user-attachments/assets/ceed27c3-7363-4857-8c0a-6a381dfd512a" />
+<img width="1107" height="641" alt="image" src="https://github.com/user-attachments/assets/f5cdd364-3db9-4fa1-b20f-ef3029362f8c" />
+
 
 
 
